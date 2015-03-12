@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: Newlywedgame
+        psr4_prefix: Newlywedgame
+        src_path: app
